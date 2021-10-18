@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+prueba_models_full_access,prueba_models_full_access,model_prueba_models,,1,1,1,1
